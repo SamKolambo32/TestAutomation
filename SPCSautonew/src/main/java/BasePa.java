@@ -12,7 +12,8 @@ public class BasePa {
 
 	WebDriver driver;
 	public static FileInputStream fis;
-	public static String testdatafilepath = "F:\\EPIC_Backup\\Sam\\SPCSautonew\\src\\test\\resources\\testdata.properties";
+	public static String testdatafilepath = "F:\\EPIC_Backup\\Sam\\SPCSNAuto\\SPCSautonew\\src\\test\\resources\\testdata.properties";
+
 
 	
 	
