@@ -1,0 +1,4 @@
+# Created at 2019-01-17T12:33:13.835
+Boot Manifest-JAR contains absolute paths in classpath 'F:\EPIC_Backup\Sam\SPCSNAuto\SPCSautonew\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
