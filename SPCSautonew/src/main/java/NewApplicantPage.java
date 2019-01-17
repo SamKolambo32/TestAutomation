@@ -391,7 +391,7 @@ public class NewApplicantPage  extends BasePa{
 	try {
 		Thread.sleep(2000);
 		//3.radioBtn
-		driver.findElement(By.cssSelector("#mailing_0")).click();;
+		driver.findElement(By.cssSelector("#mailing_0")).click();
 		//WebElement radioBtn = driver.findElement(By.id("radio_4[]"));
 		
 		
