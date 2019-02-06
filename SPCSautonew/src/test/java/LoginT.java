@@ -16,10 +16,12 @@ public class LoginT  extends Base1Test{
  
 		LoginP login = new LoginP(driver);
 		
-	//	By userName = By.name("username");
-		//By password = By.name("password");
-		
-		//driver.get("http://192.168.1.29:9085/SPCS_QA_V1.28/login.htm");
+	/*
+		By userName = By.name("username");
+		By password = By.name("password");
+		driver.get("http://192.168.1.29:9085/SPCS_QA_V1.28/login.htm");
+		*/
+
 		login.enterValidUserName();
 	
 		
